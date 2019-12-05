@@ -63,6 +63,15 @@ body{
     margin-top: -0.95%;
 }
 
+
+
+
+.navigation-item:hover{
+
+
+    
+}
+
 .main-information{
     color: #34d994;
     font-family: 'NotoSupreme';
@@ -76,7 +85,7 @@ body{
 }
 
 .emphasized{
-    color:#34d994;
+    color:aquax;
     font-size: 2.5rem;
     font-family: 'NotoCool'
 }
